@@ -1,2 +1,2 @@
-# gitractice
+# gitpractice
 git practice repository
